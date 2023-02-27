@@ -13,5 +13,8 @@
 # You can access the apis with below url
     http://localhost:3000/
 
+# Documentation can be accessed with below url
+    http://localhost:3000/api-docs
+
 ### Run below command for unit testing
     npm test
